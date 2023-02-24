@@ -1,3 +1,3 @@
 # Layout Parser on Academic Reports
 
-Extracts structural information from PDF files using Layout Parsing(text, title, list, table, figure).
+Extracts structural information(text, title, list, table, figure) from PDF files using Deep Layout Parsing.
